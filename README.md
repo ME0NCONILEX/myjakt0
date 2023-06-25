@@ -6,7 +6,7 @@ At the beginning I have to say that I've built this applet from scratch (first w
 
 In the absence of any guidance and without any detailed introductory tasks, I have built this little program entirely alone.
 The program is not intended for production, it is not completed at all. 
-In this last video (the fourth https://me0nly.cadpower.se/media/062123-134139.mp4) I made a little more detailed account of some of my ideas, of the little program that I have built entirely at home on my private computer. 
+In this last video (the fourth http://me0nly.cadpower.se/media/062123-134139.mp4) I made a little more detailed account of some of my ideas, of the little program that I have built entirely at home on my private computer. 
 In addition to these videos in a couple of month, I have delivered to my colleagues several tips, ideas and advice.
 Applet is still under construction and can safely contain different kinds of errors.
 This is one of several reasons for I won't share anything more than this video.
